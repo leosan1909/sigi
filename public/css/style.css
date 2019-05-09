@@ -1,0 +1,518 @@
+body {
+    font-family: font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;font-size: 14px;
+}
+a{
+	text-decoration: none;
+}
+.panel > .panel-heading {
+    background-image: none;
+    background-color: #223E4A;
+    color: #FFFFFF;
+
+}
+.panel > .panel-heading-sigi {
+    padding: 10px 15px;
+    border-bottom: 1px solid transparent;
+    border-top-right-radius: 3px;
+    border-top-left-radius: 3px;
+    background-image: none;
+    background-color: #223E4A;
+    color: #FFFFFF;
+}
+.nav-pills>li.active>a, .nav-pills>li.active>a:focus, .nav-pills>li.active>a:hover{
+    background-color: #223E4A;
+    color: #FFFFFF;
+}
+.bg-ipn{
+	background-color: #701D44;
+}
+.bg-escom{
+	background-color: #0D558D;
+}
+.bg-sigi{
+	background-color: #223E4A;
+}
+	
+.text-ipn{
+	color:#701D44;
+}
+.text-escom{
+	color:#0D558D;
+}
+.text-sigi{
+	color:#223E4A;
+}
+.text-white{
+	color:#FFFFFF;
+}
+.no-decoration{
+	text-decoration: none;
+}
+/*----------------------------------Tamaño letra-----------------------------------*/
+.fs8p{
+	font-size:8px;
+}
+.fs10p{
+	font-size:10px;
+}
+.fs12p{
+	font-size:12px;
+}
+.fs15p{
+	font-size:15px;
+}
+.fs18p{
+	font-size:18px;
+}
+.fs20p{
+	font-size:20px;
+}
+.fs25p{
+  font-size:25px;
+}
+.fs30p{
+  font-size:30px;
+}
+.fs-xxs{
+	font-size:xx-small;
+}
+.fs-xs{
+	font-size:x-small;
+}
+.fs-s{
+	font-size:small;
+}
+.fs-m{
+	font-size:medium;
+}
+.fs-l{
+	font-size:large;
+}
+.fs-xl{
+	font-size:x-large;
+}
+.fs-xxl{
+	font-size:xx-large;
+}
+/*------------------------------------Margin-----------------------------------*/
+.m-h-0{
+	margin: 0px 0px 0px 0px;
+}
+.m-h-10{
+  margin: 0px 0px 10px 0px;
+}
+.m-h-15{
+  margin: 15px 0px 15px 0px;
+}
+.m-h-20{
+  margin: 20px 0px 20px 0px;
+}
+.m-h-25{
+  margin: 25px 0px 25px 0px;
+}
+.m-h-30{
+  margin: 30px 0px 30px 0px;
+}
+.m-h-35{
+  margin: 35px 0px 35px 0px;
+}
+.m-h-40{
+  margin: 40px 0px 40px 0px;
+}
+.m-h-45{
+  margin: 45px 0px 45px 0px;
+}
+.m-h-50{
+  margin: 50px 0px 50px 0px;
+}
+.m-h-100{
+  margin: 100px 0px 100px 0px;
+}
+.mb-5{
+	margin: 0px 0px 5px 0px;
+
+}
+.mb-10{
+	margin: 0px 0px 10px 0px;
+
+}
+.mb-15{
+	margin: 0px 0px 15px 0px;
+
+}
+.mb-20{
+	margin: 0px 0px 20px 0px;
+
+}
+.mb-25{
+	margin: 0px 0px 25px 0px;
+
+}
+.mb-50{
+  margin: 0px 0px 50px 0px;
+
+}
+.mt-5{
+  margin: 5px 0px 0px 0px;
+
+}
+.mt-10{
+  margin: 10px 0px 0px 0px;
+
+}
+.mt-15{
+  margin: 15px 0px 0px 0px;
+
+}
+.mt-20{
+  margin: 20px 0px 0px 0px;
+
+}
+/*------------------------------------Padding-----------------------------------*/
+.p-h-0{
+	padding: 0px 0px 0px 0px;
+}
+.p-h-5{
+	padding: 5px 0px 5px 0px;
+}
+.p-h-10{
+	padding: 10px 0px 10px 0px;
+}
+.p-h-15{
+	padding: 15px 0px 15px 0px;
+}
+.p-h-20{
+	padding: 20px 0px 20px 0px;
+}
+.p-h-25{
+	padding: 25px 0px 25px 0px;
+}
+.p-h-30{
+	padding: 30px 0px 30px 0px;
+}
+.p-h-35{
+	padding: 35px 0px 35px 0px;
+}
+.p-h-40{
+	padding: 40px 0px 40px 0px;
+}
+.p-h-45{
+	padding: 45px 0px 45px 0px;
+}
+.p-h-50{
+	padding: 50px 0px 50px 0px;
+}
+.p-h-75{
+	padding: 75px 0px 75px 0px;
+}
+.p-h-100{
+	padding: 100px 0px 100px 0px;
+}
+.p-h-150{
+	padding: 150px 0px 150px 0px;
+}
+.pb-5{
+	padding: 0px 0px 5px 0px;
+
+}
+.pb-10{
+	padding: 0px 0px 10px 0px;
+
+}
+.pb-15{
+	padding: 0px 0px 15px 0px;
+
+}
+.pb-20{
+	padding: 0px 0px 20px 0px;
+
+}
+.pb-25{
+	padding: 0px 0px 25px 0px;
+
+}
+.pt-5{
+	padding: 5px 0px 0px 0px;
+
+}
+.pt-10{
+	padding: 10px 0px 0px 0px;
+
+}
+.pt-15{
+	padding: 15px 0px 0px 0px;
+
+}
+.pt-20{
+	padding: 20px 0px 0px 0px;
+
+}
+/*----------------------Botones------------------------------------------- */
+.btn-sigi { 
+  color: #FFFFFF; 
+  background-color: #223E4A; 
+  border-color: #FFFFFF; 
+} 
+ 
+.btn-sigi:hover, 
+.btn-sigi:focus, 
+.btn-sigi:active, 
+.btn-sigi.active, 
+.open .dropdown-toggle.btn-sigi { 
+  color: #FFFFFF; 
+  background-color: #223E4A; 
+  border-color: #FFFFFF; 
+} 
+ 
+.btn-sigi:active, 
+.btn-sigi.active, 
+.open .dropdown-toggle.btn-sigi { 
+  background-image: none; 
+} 
+ 
+.btn-sigi.disabled, 
+.btn-sigi[disabled], 
+fieldset[disabled] .btn-sigi, 
+.btn-sigi.disabled:hover, 
+.btn-sigi[disabled]:hover, 
+fieldset[disabled] .btn-sigi:hover, 
+.btn-sigi.disabled:focus, 
+.btn-sigi[disabled]:focus, 
+fieldset[disabled] .btn-sigi:focus, 
+.btn-sigi.disabled:active, 
+.btn-sigi[disabled]:active, 
+fieldset[disabled] .btn-sigi:active, 
+.btn-sigi.disabled.active, 
+.btn-sigi[disabled].active, 
+fieldset[disabled] .btn-sigi.active { 
+  background-color: #223E4A; 
+  border-color: #FFFFFF; 
+} 
+ 
+.btn-sigi .badge { 
+  color: #223E4A; 
+  background-color: #FFFFFF; 
+}
+
+.btn-escom { 
+  color: #FFFFFF; 
+  background-color: #0D558D; 
+  border-color: #FFFFFF; 
+} 
+ 
+.btn-escom:hover, 
+.btn-escom:focus, 
+.btn-escom:active, 
+.btn-escom.active, 
+.open .dropdown-toggle.btn-escom { 
+  color: #FFFFFF; 
+  background-color: #0D558D; 
+  border-color: #FFFFFF; 
+} 
+ 
+.btn-escom:active, 
+.btn-escom.active, 
+.open .dropdown-toggle.btn-escom { 
+  background-image: none; 
+} 
+ 
+.btn-escom.disabled, 
+.btn-escom[disabled], 
+fieldset[disabled] .btn-escom, 
+.btn-escom.disabled:hover, 
+.btn-escom[disabled]:hover, 
+fieldset[disabled] .btn-escom:hover, 
+.btn-escom.disabled:focus, 
+.btn-escom[disabled]:focus, 
+fieldset[disabled] .btn-escom:focus, 
+.btn-escom.disabled:active, 
+.btn-escom[disabled]:active, 
+fieldset[disabled] .btn-escom:active, 
+.btn-escom.disabled.active, 
+.btn-escom[disabled].active, 
+fieldset[disabled] .btn-escom.active { 
+  background-color: #0D558D; 
+  border-color: #FFFFFF; 
+} 
+ 
+.btn-escom .badge { 
+  color: #0D558D; 
+  background-color: #FFFFFF; 
+}
+
+.btn-ipn { 
+  color: #FFFFFF; 
+  background-color: #701D44; 
+  border-color: #FFFFFF; 
+} 
+ 
+.btn-ipn:hover, 
+.btn-ipn:focus, 
+.btn-ipn:active, 
+.btn-ipn.active, 
+.open .dropdown-toggle.btn-ipn { 
+  color: #FFFFFF; 
+  background-color: #701D44; 
+  border-color: #FFFFFF; 
+} 
+ 
+.btn-ipn:active, 
+.btn-ipn.active, 
+.open .dropdown-toggle.btn-ipn { 
+  background-image: none; 
+} 
+ 
+.btn-ipn.disabled, 
+.btn-ipn[disabled], 
+fieldset[disabled] .btn-ipn, 
+.btn-ipn.disabled:hover, 
+.btn-ipn[disabled]:hover, 
+fieldset[disabled] .btn-ipn:hover, 
+.btn-ipn.disabled:focus, 
+.btn-ipn[disabled]:focus, 
+fieldset[disabled] .btn-ipn:focus, 
+.btn-ipn.disabled:active, 
+.btn-ipn[disabled]:active, 
+fieldset[disabled] .btn-ipn:active, 
+.btn-ipn.disabled.active, 
+.btn-ipn[disabled].active, 
+fieldset[disabled] .btn-ipn.active { 
+  background-color: #701D44; 
+  border-color: #FFFFFF; 
+} 
+ 
+.btn-ipn .badge { 
+  color: #701D44; 
+  background-color: #FFFFFF; 
+}
+/*-----------------------------------Navbar-----------------------------*/
+.navbar-default {
+  background-color: #701d44;
+  border-color: #ffffff;
+}
+.navbar-default .navbar-brand {
+  color: #ffffff;
+}
+.navbar-default .navbar-brand:hover{
+  color: #ffffff;
+}
+.navbar-default .navbar-brand:focus {
+  color: #701d44;
+}
+.navbar-default .navbar-text {
+  color: #ffffff;
+}
+.navbar-default .navbar-nav > li > a {
+  color: #ffffff;
+}
+.navbar-default .navbar-nav > li > a:hover{
+  color: #ffffff;
+}
+.navbar-default .navbar-nav > li > a:focus {
+  color: #701d44;
+}
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus {
+  color: #701d44;
+  background-color: #ffffff;
+}
+.navbar-default .navbar-nav > .open > a,
+.navbar-default .navbar-nav > .open > a:hover,
+.navbar-default .navbar-nav > .open > a:focus {
+  color: #701d44;
+  background-color: #ffffff;
+}
+.navbar-default .navbar-toggle {
+  border-color: #ffffff;
+}
+.navbar-default .navbar-toggle:hover,
+.navbar-default .navbar-toggle:focus {
+  background-color: #ffffff;
+}
+.navbar-default .navbar-toggle .icon-bar {
+  background-color: #ffffff;
+}
+.navbar-default .navbar-collapse,
+.navbar-default .navbar-form {
+  border-color: #ffffff;
+}
+.navbar-default .navbar-link {
+  color: #ffffff;
+}
+.navbar-default .navbar-link:hover {
+  color: #701d44;
+}
+
+@media (max-width: 767px) {
+  .navbar-default .navbar-nav .open .dropdown-menu > li > a {
+    color: #ffffff;
+  }
+  .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover,
+  .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
+    color: #701d44;
+  }
+  .navbar-default .navbar-nav .open .dropdown-menu > .active > a,
+  .navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover,
+  .navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus {
+    color: #701d44;
+    background-color: #ffffff;
+  }
+}
+/****************************************TAB NAV***************************************************************/
+/* Style the tab */
+.tab {
+  overflow: hidden;
+  color:#0D558D;
+  background-color: #f1f1f1;
+  border-radius: 10px 10px 0px 0px;
+  -moz-border-radius: 10px 10px 0px 0px;
+  -webkit-border-radius: 10px 10px 0px 0px;
+  border: 0px solid #000000;
+}
+
+/* Style the buttons inside the tab */
+.tab button {
+  background-color: inherit;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  transition: 0.3s;
+}
+
+/* Change background color of buttons on hover */
+.tab button:hover {
+  background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+.tab button.active {
+  background-color: #0D558D;
+  color:#FFFFFF;
+  border-radius: 10px 10px 0px 0px;
+  -moz-border-radius: 10px 10px 0px 0px;
+  -webkit-border-radius: 10px 10px 0px 0px;
+  border: 0px solid #000000;
+}
+
+/* Style the tab content */
+.tabcontent {
+  display: none;
+  padding: 6px 12px;
+  -webkit-animation: fadeEffect 1s;
+  animation: fadeEffect 1s;
+
+}
+
+/* Fade in tabs */
+@-webkit-keyframes fadeEffect {
+  from {opacity: 0;}
+  to {opacity: 1;}
+}
+
+@keyframes fadeEffect {
+  from {opacity: 0;}
+  to {opacity: 1;}
+}
